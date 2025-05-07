@@ -1,0 +1,13 @@
+{
+    "title": "Taxi Driver",
+    "year": 1976,
+    "isAvailable": true,
+    "genres": ["crime", "noir"],
+    "cast": [
+        {
+            "Robert De Niro": "lead",
+            "Martin Scorsese": "supporting",
+            "Jodie Foster": "supporting"
+        }
+    ]
+}

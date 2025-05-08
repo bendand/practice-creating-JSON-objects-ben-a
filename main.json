@@ -10,4 +10,33 @@
             "Jodie Foster": "supporting"
         }
     ]
+},
+
+
+{
+    "title" : "The Hobbit",
+    "year" : 2012,
+    "isAvailable" : true,
+    "Genres" : ["Fantasy", "Adventure", "Epic"],
+    "Actor" : [
+        {
+            "name" : "Ian McKellen",
+            "role" : "Gandalf the Gray",
+            ""
+        },
+        {
+            "name" : "Martin Freeman",
+            "role" : "Bilbo Baggins"
+        },
+        {  
+            "name" : "Richard Armitage",
+            "role" : "Thorin Oakenshield"
+
+        }
+    ],
+    "ratings": {
+        "audienceScore": 83,
+        "rottenTomatoes": 64,
+        "IMDb": "7.8/10"
+    }
 }
